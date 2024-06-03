@@ -13,19 +13,25 @@ header {
 }
 
 .logo {
-    width: 250px;
+    width: 350px;
     position: absolute;
     left: 5px;
     bottom: 5px;
 }
 
-main {
-    margin-left: 15px;
-    margin-top: 5px;
+.main-title {
+    font-size: 50px;
 }
 
-.subheading {
-    color: rgba(50, 50, 50, 0.8)
+main {
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-right: 40px;
+}
+
+.subheading, {
+    color: rgba(50, 50, 50, 0.8);
+    font-size: 15px;
 }
 
 .article-writer {
@@ -38,4 +44,45 @@ main {
 
 .images-description {
     color: rgb(0, 0, 0)
+}
+
+.main-article {
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.unordered-list {
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.table {
+    text-align: left;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.header-row {
+    background-color: rgb(10, 117, 204);
+    color: white;
+}
+
+.lightblue-row {
+    background-color: lightblue;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
+
+.you-might-like {
+    font-size: 25px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.adv-image {
+    margin-top: 20px;
 }
