@@ -18,3 +18,24 @@ header {
     left: 5px;
     bottom: 5px;
 }
+
+main {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.subheading {
+    color: rgba(50, 50, 50, 0.8)
+}
+
+.article-writer {
+    color: rgb(76, 174, 255);
+}
+
+.images-knight-foundation {
+    margin-top: 15px;
+}
+
+.images-description {
+    color: rgb(0, 0, 0)
+}
